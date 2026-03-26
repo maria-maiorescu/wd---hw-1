@@ -22,5 +22,5 @@ The contact form is static and doesn't actually send anything — there's no bac
 
 ## Links
 
-- Repository: https://github.com/maria-maiorescu
-- Live site: https://maria-maiorescu.github.io/web-design/
+- Repository: https://github.com/maria-maiorescu/wd---hw-1
+- Live site: https://maria-maiorescu.github.io/wd---hw-1/
